@@ -1,0 +1,1 @@
+fastapi uvicorn openai web3 ccxt requests python-dotenv
